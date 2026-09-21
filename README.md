@@ -52,7 +52,7 @@ I’m an entry-level cybersecurity enthusiast passionate about protecting system
 - 🐍 **Security Automation Scripts** — Small Python and Bash tools for learning and automation
 - 📝 **CTF Write-ups** — Documenting lessons learned from legal, authorized security challenges
 
-## Let's Connect
+## Let's Connect...
 
 I’m always happy to connect with fellow learners, cybersecurity professionals, and people interested in ethical technology.
 
