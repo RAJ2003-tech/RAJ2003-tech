@@ -56,9 +56,9 @@ I’m an entry-level cybersecurity enthusiast passionate about protecting system
 
 I’m always happy to connect with fellow learners, cybersecurity professionals, and people interested in ethical technology.
 
-- 💼 LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
-- 📧 Email: Add your professional email here
-- 🌐 Portfolio: Add your portfolio URL here
+- 💼 LinkedIn: [(https://www.linkedin.com/in/pruthviraj-g-s-7595a9398/)]
+- 📧 Email: pruthvirajgspruthvi@gmail.com
+- 🌐 Portfolio: https://raj2003-tech.github.io/pruthvi.portfolio/
 
 > All security-related work in this profile is performed in authorized lab environments and for educational purposes only.
 
